@@ -4,7 +4,7 @@
 static const char font[]        = "Iosevka:size=10:antialias=true:hint=true:hintstyle=hintfull; weight=medium: slant=roman: dpi=96";
 static const char* normbgcolor  = "#666666";
 static const char* normfgcolor  = "#cccccc";
-static const char* selbgcolor   = "#bb3311";
+static const char* selbgcolor   = "#2a3775";
 static const char* selfgcolor   = "#ffffff";
 static const char* urgbgcolor   = "#333333";
 static const char* urgfgcolor   = "#000000";
